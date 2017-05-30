@@ -1,1 +1,2 @@
 # exercise
+kak ste banda?
