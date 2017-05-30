@@ -2,9 +2,7 @@ Turn coffee into code
 blqblq 
 Local changes
 blqblq Github changes
-<<<<<<< HEAD
 tuka sam ot mastera hehe!
-=======
 I am here from the "Develop" branch!
->>>>>>> Develop
+
 
